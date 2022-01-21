@@ -1,8 +1,5 @@
 #Faça um programa que leia um número inteiro qualquer e mostre na tela sua tabuada
 
-#import random
-
-#num = random.randint (1,10)
 
 num = int(input('Digite um número inteiro:'))
 
